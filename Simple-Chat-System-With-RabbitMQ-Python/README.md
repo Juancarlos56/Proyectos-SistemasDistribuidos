@@ -1,2 +1,2 @@
-# Chat application with RabbitMQ and Python
+# Aplicación de chat con RabbitMQ y Python
 
