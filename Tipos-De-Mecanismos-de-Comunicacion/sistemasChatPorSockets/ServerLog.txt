@@ -1,0 +1,83 @@
+POST /{UNO}/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 3
+Date: Mon Nov 15 01:29:14 ECT 2021
+New Client connected: UNO
+POST /{DOS}/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 3
+Date: Mon Nov 15 01:29:18 ECT 2021
+New Client connected: DOS
+POST /{TRES}/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 4
+Date: Mon Nov 15 01:29:25 ECT 2021
+New Client connected: TRES
+POST /HOLA SOY 1/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 10
+Date: Mon Nov 15 01:29:32 ECT 2021
+UNO: HOLA SOY 1
+
+POST /HOLA SOY 2/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 10
+Date: Mon Nov 15 01:29:38 ECT 2021
+DOS: HOLA SOY 2
+
+POST /HOLA SOY 3/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 10
+Date: Mon Nov 15 01:29:43 ECT 2021
+TRES: HOLA SOY 3
+
+DOS has LOGGED OUT
+
+TRES has LOGGED OUT
+
+POST /{TRES}/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 4
+Date: Mon Nov 15 01:34:23 ECT 2021
+New Client connected: TRES
+POST /{DOS}/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 3
+Date: Mon Nov 15 01:34:32 ECT 2021
+New Client connected: DOS
+POST /soy activo de nuevo/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 19
+Date: Mon Nov 15 01:34:45 ECT 2021
+DOS: soy activo de nuevo
+
+POST /yo igual/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 8
+Date: Mon Nov 15 01:34:50 ECT 2021
+TRES: yo igual
+
+TRES has LOGGED OUT
+
+DOS has LOGGED OUT
+
