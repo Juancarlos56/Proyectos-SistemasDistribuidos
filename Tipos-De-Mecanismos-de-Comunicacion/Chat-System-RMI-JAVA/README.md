@@ -1,5 +1,12 @@
 # Aplicación de chat con mecanismo de comunicación RPC/RMI, utilizando lenguaje de programacion JAVA
 
+### Mecanismo de comunicación 
+
+
+
+![MecanismoComunicacionRMI](https://github.com/Juancarlos56/Proyectos-SistemasDistribuidos/blob/main/Tipos-De-Mecanismos-de-Comunicacion/Chat-System-RMI-JAVA/Arquitectura/MecanismoComunicacionRMI.PNG)
+
+
 ###  Paquetes del proyecto
 - Cliente: Todo el código relevante para la GUI de chat del cliente.
 - Servidor: el código del servidor central.
