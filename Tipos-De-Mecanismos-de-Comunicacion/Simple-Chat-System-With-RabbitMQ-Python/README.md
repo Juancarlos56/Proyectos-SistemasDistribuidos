@@ -2,7 +2,7 @@
 
 ### Tipos De Mecanismos de Comunicación
 
-![MecanismoComunicacionMOM](https://github.com/Juancarlos56/Proyectos-SistemasDistribuidos/blob/main/Tipos-De-Mecanismos-de-Comunicacion/Simple-Chat-System-With-RabbitMQ-Python/Arquitectura/MecanismoComunicacionMOM.png)
+![MecanismoComunicacionMOM](https://github.com/Juancarlos56/Proyectos-SistemasDistribuidos/blob/main/Tipos-De-Mecanismos-de-Comunicacion/Simple-Chat-System-With-RabbitMQ-Python/Arquitectura/MOM.png)
 
 
 ### Links de descarga: 
