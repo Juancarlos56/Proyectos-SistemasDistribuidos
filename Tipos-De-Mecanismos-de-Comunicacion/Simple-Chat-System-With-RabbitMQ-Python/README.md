@@ -5,4 +5,4 @@
 - https://www.erlang.org/downloads
 
 ### Referencia para codigo: 
-- https://github.com/willamesalmeida/A-Simple-Chat-Application-With-RabbitMQ-and-TKinter-/blob/master/chat%20(1).py
+- https://github.com/willamesalmeida/A-Simple-Chat-Application-With-RabbitMQ-and-TKinter-
