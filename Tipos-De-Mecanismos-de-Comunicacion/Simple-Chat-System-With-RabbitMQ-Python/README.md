@@ -11,3 +11,6 @@
 
 ### Referencia para codigo: 
 - https://github.com/willamesalmeida/A-Simple-Chat-Application-With-RabbitMQ-and-TKinter-
+
+### Referencia modelo de arquitectura:
+- https://husale.discountshops2021.ru/content?c=python%20pika%20start_consuming&id=10
